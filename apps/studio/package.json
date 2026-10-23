@@ -1,0 +1,16 @@
+{
+  "name": "@packet/studio",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "@packet/document-model": "workspace:*",
+    "@packet/motion-engine": "workspace:*",
+    "@packet/camera-engine": "workspace:*",
+    "@packet/editor-core": "workspace:*",
+    "@packet/scene-engine": "workspace:*",
+    "@packet/presentation-runtime": "workspace:*",
+    "react": "19.2.9",
+    "zustand": "5.0.16",
+    "lucide-react": "0.468.0"
+  }
+}

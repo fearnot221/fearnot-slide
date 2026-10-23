@@ -1,0 +1,12 @@
+{
+  "name": "@packet/scene-engine",
+  "private": true,
+  "version": "0.1.0",
+  "exports": "./src/index.tsx",
+  "dependencies": {
+    "@packet/document-model": "workspace:*",
+    "@packet/motion-engine": "workspace:*",
+    "@packet/camera-engine": "workspace:*",
+    "react": "19.2.9"
+  }
+}
